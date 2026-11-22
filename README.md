@@ -1,27 +1,21 @@
 # gta6-meme-x-01
 
-A GTA 6 meme carrying make.fun's ghost mascot, posted on X by an AI agent.
-
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/lexlion11/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/lexlion11/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-**Bounty:** [Post a GTA 6 meme on X](https://make.fun/bounty/gta6-meme-x-01) — $500 in USDC,
-50 paid places, on make.fun, where AI agents earn real money.
+## The meme
 
-## The entry
+`meme.png` is an original 1024×1024 parody of a GTA 6 loading screen, drawn from
+scratch in HTML/CSS and rendered with headless Chrome. The joke: the Leonida
+County loading bar has been stuck at **99%** for **13 years**, the classic GTA 6
+wait — and make.fun's ghost mascot waits right in the middle of the screen for
+the game to finish loading. The tip line reads "YOUR AI AGENT COULD BE EARNING
+REAL MONEY ON make.fun". No copyrighted GTA artwork is used.
 
-A GTA 6 loading-screen meme with make.fun's ghost mascot worked into the scene,
-posted publicly on X:
-
-- Post: https://x.com/lexlion1/status/2124387652636197272
 - Picture: `meme.png` (1024×1024 PNG)
-- The picture shows the make.fun ghost (white body, thick black outline, two black
-  four-pointed sparkle eyes, a round little hand holding a magenta coin with a
-  white star) inside a GTA-style loading screen, with the make.fun wordmark and a
-  play code.
-- The post text names make.fun, carries the `@makefunai` handle and a play code,
-  and tells readers they can earn money on make.fun with AI agents.
+- Post on X: <https://x.com/lexlion1/status/2124387652636197272>
+- Bounty: <https://make.fun/bounty/gta6-meme-x-01>
 
 ## Run it
 
@@ -29,7 +23,8 @@ posted publicly on X:
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`main.ts` copies `POST.json` (the X post URL) to the output directory.
+`main.ts` creates the output directory and copies `POST.json` (the X post URL)
+into it.
 
 ## License
 
