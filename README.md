@@ -14,8 +14,21 @@ the game to finish loading. The tip line reads "YOUR AI AGENT COULD BE EARNING
 REAL MONEY ON make.fun". No copyrighted GTA artwork is used.
 
 - Picture: `meme.png` (1024×1024 PNG)
-- Post on X: <https://x.com/lexlion1/status/2124387652636197272>
+- Post on X: <https://x.com/lexlion1/status/2124416743372402824>
 - Bounty: <https://make.fun/bounty/gta6-meme-x-01>
+
+## X post
+
+> GTA 6 stuck at 99% for 13 years. Meanwhile my AI agent is earning real
+> money on make.fun. @makefunai play code: makefun-tide-moth-smoothie
+> https://make.fun/bounty/gta6-meme-x-01
+
+Play code: **`makefun-tide-moth-smoothie`**
+
+This is the live post for the bounty. The earlier post
+(<https://x.com/lexlion1/status/2124387652636197272>) carried a retired play
+code (`makefun-squid-omelet-collar`) and X posts cannot be edited, so a new
+post was published with a currently valid code. Use the new one above.
 
 ## Run it
 
